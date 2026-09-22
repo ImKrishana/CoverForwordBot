@@ -81,3 +81,14 @@ curl "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=YOUR_WORKER_URL"
 ```
 
 </details>
+
+## Xtra
+
+Live bot can be found here
+
+**Demo Bot:** [@CoverForwordBot](https://t.me/CoverForwordBot)
+
+---
+
+[![License](https://img.shields.io/github/license/ImKrishana/CoverForwordBot)](https://github.com/ImKrishana/CoverForwordBot/blob/main/LICENSE)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/TheZake)
